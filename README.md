@@ -8,6 +8,8 @@ https://public.tableau.com/shared/3K3Q48GTG?:display_count=yes
 
 https://public.tableau.com/profile/radovan.kavicky#!/vizhome/next-sluzby-cr/Story1
 
+Ako je na tom cestovný ruch na Slovensku?
+
 © GapData Institute (2016)
 
 Data: ŠÚ SR (INFOSTAT/SLOVSTAT, SACR)
